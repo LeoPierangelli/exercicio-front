@@ -1,0 +1,32 @@
+body{
+    justify-items: center;
+}
+.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+    width: 50%;
+}
+.title{
+    font-family: 'Lucida Sans';
+
+}
+.subtitle{
+    font-family: 'Lucida Sans Regular';
+}
+
+.menu{
+    font-family:Verdana;
+    
+    li{
+        list-style-type: none;
+    }
+}
+
+.videos{    
+    border: solid;
+    border-width: 400;
+
+}
